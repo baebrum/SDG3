@@ -17,7 +17,7 @@ This includes: components, datasheets, simulations, source code and more!
 | Christopher Kihano  | Computer Engineer   |
 
 ## Final Product Image
-- <img width="600px" src="https://github.com/baebrum/SDG3/blob/main/Photos/HappyTunes-Final-Product-Image.png?raw=true"/>
+<img width="600px" src="https://github.com/baebrum/SDG3/blob/main/Photos/HappyTunes-Final-Product-Image.png?raw=true"/>
 
 # Shortcuts
 
