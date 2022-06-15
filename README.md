@@ -16,6 +16,9 @@ This includes: components, datasheets, simulations, source code and more!
 | Christopher Johnson | Computer Engineer   |
 | Christopher Kihano  | Computer Engineer   |
 
+## Final Product Image
+- <img width="600px" src="https://github.com/baebrum/SDG3/blob/main/Photos/HappyTunes-Final-Product-Image.png?raw=true"/>
+
 # Shortcuts
 
 From here on you will find sections detailing different points of Team 3's progress, links to documents and Google Drive directories.
